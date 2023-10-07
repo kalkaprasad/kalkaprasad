@@ -31,7 +31,7 @@
 - **Frameworks:** [ Angular, Django, Flutter ]
 - **Tools:** [ Dell Boomi, AWS, Firebase]  
 - **Databases:** [ Mysql, MongoDB ]
-- **IDEs:** [ Visual Studio, Intellj IDEA ]
+- **IDEs:** [ Visual Studio, Intellj IDEA, Android Studio ]
 
 
 ## 2. 🚀 Languages and Tools:
