@@ -29,7 +29,7 @@
 
 - **Languages:** [ C++, Java, Python, Dart, Javascript ]
 - **Frameworks:** [ Angular, Django, Flutter ]
-- **Tools:** [ Dell Boomi, AWS ]  
+- **Tools:** [ Dell Boomi, AWS, Firebase]  
 - **Databases:** [ Mysql, MongoDB ]
 - **IDEs:** [ Visual Studio, Intellj IDEA ]
 
