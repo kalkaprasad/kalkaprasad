@@ -21,18 +21,18 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://kalkaprasad.com)**
 
 - 📫 How to reach me **kalkaprasad70@gmail.com**
-- 💬 Let's chat about [Python,Angular,Django,AWS,Android App Development,Cloud Integration,Open AI and chatGPT].
+- 💬 Let's chat about development and consulting.
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** [C++,Java,Python,Dart,Flutter,Javascript]
-- **Frameworks:** [Angular,Django]
+- **Languages:** [C++, Java, Python, Dart, Javascript]
+- **Frameworks:** [Angular, Django, Flutter]
 - **Tools:** [Dell Boomi , AWS]
-- **Databases:** [Mysql,MongoDB]
-- **IDEs:** [Visual Studio,Intellj IDEA]
+- **Databases:** [Mysql, MongoDB]
+- **IDEs:** [Visual Studio, Intellj IDEA]
 
 
 ## 2. 🚀 Languages and Tools:
@@ -73,13 +73,14 @@
   <a href="https://github.com/kalkaprasad/github-readme-stats">
  <img alt="kalka prasad Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalkaprasad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kalkaprasad/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalkaprasad28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
