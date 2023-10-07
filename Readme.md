@@ -1,24 +1,39 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kalka Prasad</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Kalka Prasad+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=kalkaprasad&color=brightgreen" alt="watching_count" />
+ </p>
+
+
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 1. 🙋‍♂️ About Me
 
- - 👨‍💻 I’m currently working at TCS as a Assistent System Engineer trainee .**
+ - 👨‍💻 I’m currently working at TCS as a System Engineer .
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 Currently, I'm deep-diving into Full Stack Development and AI.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://kalkaprasad.com)**
 
 - 📫 How to reach me **kalkaprasad70@gmail.com**
+- 💬 Let's chat about [Python,Angular,Django,AWS,Android App Development,Cloud Integration,Open AI and chatGPT].
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** [C++,Java,Python,Dart,Flutter,Javascript]
+- **Frameworks:** [Angular,Django]
+- **Tools:** [Dell Boomi , AWS]
+- **Databases:** [Mysql,MongoDB]
+- **IDEs:** [Visual Studio,Intellj IDEA]
+
 
 ## 2. 🚀 Languages and Tools:
 
@@ -69,7 +84,7 @@
 <br/>
 <br/>
 
-## 4. Connect with me:
+## 4. 📫 Connect with Me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kalkaprasad/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -84,3 +99,5 @@
     <img src="https://komarev.com/ghpvc/?username=kalkaprasad">
 </a>
 <a href="https://github.com/kalkaprasad?tab=followers"><img src="https://img.shields.io/github/followers/kalkaprasad?label=Followers&style=social" alt="GitHub Badge"></a>
+
+Feel free to explore my repositories and reach out to me. Let's collaborate and learn together!
