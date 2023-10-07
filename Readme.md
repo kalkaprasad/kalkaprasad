@@ -16,23 +16,22 @@
 
 - 🌱 Currently, I'm deep-diving into Full Stack Development and AI.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://kalkaprasad.com)**
-
-- 📫 How to reach me **kalkaprasad70@gmail.com**
-- 💬 Let's chat about development and consulting.
+- 📫 How to reach me **kalkaprasad70@gmail.com**.
+  
+- 💬 Let us talk about software development and consultancy.
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** [C++, Java, Python, Dart, Javascript]
-- **Frameworks:** [Angular, Django, Flutter]
-- **Tools:** [Dell Boomi , AWS]
-- **Databases:** [Mysql, MongoDB]
-- **IDEs:** [Visual Studio, Intellj IDEA]
+- **Languages:** [ C++, Java, Python, Dart, Javascript ]
+- **Frameworks:** [ Angular, Django, Flutter ]
+- **Tools:** [ Dell Boomi, AWS ]  
+- **Databases:** [ Mysql, MongoDB ]
+- **IDEs:** [ Visual Studio, Intellj IDEA ]
 
 
 ## 2. 🚀 Languages and Tools:
@@ -79,9 +78,7 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/kalkaprasad/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalkaprasad28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+ 
 <br/>
 <br/>
 
